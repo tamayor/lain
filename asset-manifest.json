@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lain/static/css/main.a60cc34a.css",
-    "main.js": "/lain/static/js/main.69d3cd78.js",
-    "static/js/787.867f1215.chunk.js": "/lain/static/js/787.867f1215.chunk.js",
+    "main.js": "/lain/static/js/main.9565e845.js",
+    "static/js/787.ee046f82.chunk.js": "/lain/static/js/787.ee046f82.chunk.js",
     "static/media/mixed-logo-2.gif": "/lain/static/media/mixed-logo-2.7c897e8743e868849eb5.gif",
     "static/media/mixed-logo-3.gif": "/lain/static/media/mixed-logo-3.d54811617b62778b5aae.gif",
     "static/media/mixed-logo-1.gif": "/lain/static/media/mixed-logo-1.6845ea9bee765dc161f9.gif",
@@ -30,11 +30,11 @@
     "static/media/gotchu-logo.jpg": "/lain/static/media/gotchu-logo.5f5db9f90828921a6018.jpg",
     "index.html": "/lain/index.html",
     "main.a60cc34a.css.map": "/lain/static/css/main.a60cc34a.css.map",
-    "main.69d3cd78.js.map": "/lain/static/js/main.69d3cd78.js.map",
-    "787.867f1215.chunk.js.map": "/lain/static/js/787.867f1215.chunk.js.map"
+    "main.9565e845.js.map": "/lain/static/js/main.9565e845.js.map",
+    "787.ee046f82.chunk.js.map": "/lain/static/js/787.ee046f82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a60cc34a.css",
-    "static/js/main.69d3cd78.js"
+    "static/js/main.9565e845.js"
   ]
 }
