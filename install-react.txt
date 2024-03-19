@@ -1,0 +1,25 @@
+//
+    add "sudo" for administrative access
+//
+1.  download node package
+    // terminal command to install react 
+2.  sudo npm install -g create-react-app 
+    // create app
+3.  sudo create-react-app lain-website
+
+    // Failed to save 'index.html': Insufficient permissions. 
+    // Select 'Retry as Sudo' to retry as superuser.
+    //
+    // Sudo chown –R username folder-path
+
+4.  sudo chown -R ellymartamayor /Users/ellymartamayor/Documents
+
+
+    // install tailwindcss
+    //https://tailwindcss.com/docs/installation
+    
+5.  sudo npm install -D tailwindcss
+    sudo npx tailwindcss init
+
+    //install and output css formats
+6.  npx tailwind -i ./src/App.css -o ./src/tailwindcss/style.css
