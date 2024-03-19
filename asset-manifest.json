@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/lain/static/css/main.a60cc34a.css",
+    "main.js": "/lain/static/js/main.69d3cd78.js",
+    "static/js/787.867f1215.chunk.js": "/lain/static/js/787.867f1215.chunk.js",
+    "static/media/mixed-logo-2.gif": "/lain/static/media/mixed-logo-2.7c897e8743e868849eb5.gif",
+    "static/media/mixed-logo-3.gif": "/lain/static/media/mixed-logo-3.d54811617b62778b5aae.gif",
+    "static/media/mixed-logo-1.gif": "/lain/static/media/mixed-logo-1.6845ea9bee765dc161f9.gif",
+    "static/media/logo-lain-animation.gif": "/lain/static/media/logo-lain-animation.9565adcd2faa4cd0ae94.gif",
+    "static/media/project-sayaw-12.png": "/lain/static/media/project-sayaw-12.b0c419457d257c321f81.png",
+    "static/media/elly-shish.png": "/lain/static/media/elly-shish.040df03214d3a39e1c1f.png",
+    "static/media/daigon season 3.png": "/lain/static/media/daigon season 3.2db2165039f30374cde9.png",
+    "static/media/realworld.png": "/lain/static/media/realworld.81e014ec9edcffeff10c.png",
+    "static/media/project-gender-society-output.png": "/lain/static/media/project-gender-society-output.67137328b18d7227a9ec.png",
+    "static/media/colage 9_2 Large.png": "/lain/static/media/colage 9_2 Large.72e428f11af500fb1bc2.png",
+    "static/media/colage 4 Large.png": "/lain/static/media/colage 4 Large.2cd7f0cee4665521dc51.png",
+    "static/media/kian dmc logo copy.png": "/lain/static/media/kian dmc logo copy.ee20904b8e70c5d62b74.png",
+    "static/media/colage 7 Large.png": "/lain/static/media/colage 7 Large.243e327f350f54d7e21a.png",
+    "static/media/hugyaw-logo.jpg": "/lain/static/media/hugyaw-logo.8f252ff19c9dc0e61bae.jpg",
+    "static/media/colage 5 Large.png": "/lain/static/media/colage 5 Large.85915002d0a3437037a2.png",
+    "static/media/UNITRIBE main black.png": "/lain/static/media/UNITRIBE main black.59f61a409679ca41d4eb.png",
+    "static/media/flipkingx-logo.jpg": "/lain/static/media/flipkingx-logo.4e2ab7b0f13f829daddb.jpg",
+    "static/media/hiraya-turismo.jpg": "/lain/static/media/hiraya-turismo.ebb2dc8ce9d7be5dd894.jpg",
+    "static/media/tubunganParish.jpg": "/lain/static/media/tubunganParish.496016558baa2e7c0127.jpg",
+    "static/media/ms-damian-logo.jpg": "/lain/static/media/ms-damian-logo.aa3f65651abc15519d36.jpg",
+    "static/media/joanna-logo.jpg": "/lain/static/media/joanna-logo.55b97a2def1551ce6e4a.jpg",
+    "static/media/travel-with-yiew.jpg": "/lain/static/media/travel-with-yiew.9ac521eb341c04504d87.jpg",
+    "static/media/ken-logo.jpg": "/lain/static/media/ken-logo.9e84f595b1e2417060c0.jpg",
+    "static/media/pakupakiss-logo.jpg": "/lain/static/media/pakupakiss-logo.4d9a3f1ba600594c0e40.jpg",
+    "static/media/gotchu-logo.jpg": "/lain/static/media/gotchu-logo.5f5db9f90828921a6018.jpg",
+    "index.html": "/lain/index.html",
+    "main.a60cc34a.css.map": "/lain/static/css/main.a60cc34a.css.map",
+    "main.69d3cd78.js.map": "/lain/static/js/main.69d3cd78.js.map",
+    "787.867f1215.chunk.js.map": "/lain/static/js/787.867f1215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60cc34a.css",
+    "static/js/main.69d3cd78.js"
+  ]
+}
