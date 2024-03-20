@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lain/static/css/main.a60cc34a.css",
-    "main.js": "/lain/static/js/main.9565e845.js",
+    "main.css": "/lain/static/css/main.7f5bf699.css",
+    "main.js": "/lain/static/js/main.8622f2ce.js",
     "static/js/787.ee046f82.chunk.js": "/lain/static/js/787.ee046f82.chunk.js",
     "static/media/mixed-logo-2.gif": "/lain/static/media/mixed-logo-2.7c897e8743e868849eb5.gif",
     "static/media/mixed-logo-3.gif": "/lain/static/media/mixed-logo-3.d54811617b62778b5aae.gif",
@@ -19,6 +19,7 @@
     "static/media/hugyaw-logo.jpg": "/lain/static/media/hugyaw-logo.8f252ff19c9dc0e61bae.jpg",
     "static/media/colage 5 Large.png": "/lain/static/media/colage 5 Large.85915002d0a3437037a2.png",
     "static/media/UNITRIBE main black.png": "/lain/static/media/UNITRIBE main black.59f61a409679ca41d4eb.png",
+    "static/media/TPS LOGO - ellymartamayor-3.png": "/lain/static/media/TPS LOGO - ellymartamayor-3.7ac8b34aa036f5204b59.png",
     "static/media/flipkingx-logo.jpg": "/lain/static/media/flipkingx-logo.4e2ab7b0f13f829daddb.jpg",
     "static/media/hiraya-turismo.jpg": "/lain/static/media/hiraya-turismo.ebb2dc8ce9d7be5dd894.jpg",
     "static/media/tubunganParish.jpg": "/lain/static/media/tubunganParish.496016558baa2e7c0127.jpg",
@@ -29,12 +30,12 @@
     "static/media/pakupakiss-logo.jpg": "/lain/static/media/pakupakiss-logo.4d9a3f1ba600594c0e40.jpg",
     "static/media/gotchu-logo.jpg": "/lain/static/media/gotchu-logo.5f5db9f90828921a6018.jpg",
     "index.html": "/lain/index.html",
-    "main.a60cc34a.css.map": "/lain/static/css/main.a60cc34a.css.map",
-    "main.9565e845.js.map": "/lain/static/js/main.9565e845.js.map",
+    "main.7f5bf699.css.map": "/lain/static/css/main.7f5bf699.css.map",
+    "main.8622f2ce.js.map": "/lain/static/js/main.8622f2ce.js.map",
     "787.ee046f82.chunk.js.map": "/lain/static/js/787.ee046f82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a60cc34a.css",
-    "static/js/main.9565e845.js"
+    "static/css/main.7f5bf699.css",
+    "static/js/main.8622f2ce.js"
   ]
 }
